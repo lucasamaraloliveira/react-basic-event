@@ -1,0 +1,9 @@
+.event {
+  color: #ffffff;
+  font-weight: bold;
+  background-color: #008bdb;
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px #61dafb;
+  padding: 20px;
+  margin: 20px;
+}
